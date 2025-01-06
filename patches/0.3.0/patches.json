@@ -5,36 +5,36 @@
         "patch_version" : [
             {
                 "version": 1,
-                "content": [
+                "contents": [
                     {
                         "original_hash": "4f3db47d3f58e13c1c843b77d57ff5c4331543f3f6585a6cce7ea31798dfe04f",
-                        "src": "main.py",
+                        "src": "6.99.12.4.2187/main.py",
                         "dest": "renpy/main.py"
                     },
                     {
                         "original_hash": "b8a147800f491ac0585fff02b76e0ce67d7d4130f577b0c50d21b700b3df05ec",
-                        "src": "bootstrap.py",
+                        "src": "6.99.12.4.2187/bootstrap.py",
                         "dest": "renpy/bootstrap.py"
                     }
                 ]
             }
         ]
-    }
+    },
     {
         "name": "VnPy-Emulator Patches for 7.3.5.606",
         "version": "7.3.5.606",
         "patch_version" : [
             {
                 "version": 1,
-                "content": [
+                "contents": [
                     {
                         "original_hash": "1ee3eab5745c197181095830e7b5a5d0aad982595d649eeba0c0dd6f746d311d",
-                        "src": "main.py",
+                        "src": "7.3.5.606/main.py",
                         "dest": "renpy/main.py"
                     },
                     {
                         "original_hash": "8fd2ecc07b9a3cb73ac478cbad5c40830fddf0cb485e5540ea11fce5b3ac4b3b",
-                        "src": "bootstrap.py",
+                        "src": "7.3.5.606/bootstrap.py",
                         "dest": "renpy/bootstrap.py"
                     }
                 ]
