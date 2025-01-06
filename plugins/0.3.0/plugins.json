@@ -1,0 +1,38 @@
+[
+    {
+        "name": "VnPy-Emulator Plugin 6.99.12.4.2187",
+        "version": "6.99.12.4.2187",
+        "downloads": [
+            {
+                "abi": "armeabi",
+                "version": "1",
+                "file": "VnPy-Emulator-Plugin-6.99.12.4.2187-armeabi.apk",
+                "private-files": "VnPy-Emulator-Private-Files-6.99.12.4.2187.tar.gz"
+            },
+            {
+                "abi": "x86",
+                "version": "1",
+                "file": "VnPy-Emulator-Plugin-6.99.12.4.2187-x86.apk",
+                "private-files": "VnPy-Emulator-Private-Files-6.99.12.4.2187.tar.gz"
+            }
+        ]
+    },
+    {
+        "name": "VnPy-Emulator Plugin 7.3.5.606",
+        "version": "7.3.5.606",
+        "downloads": [
+            {
+                "abi": "armeabi",
+                "version": "1",
+                "file": "VnPy-Emulator-Plugin-7.3.5.606-armeabi.apk",
+                "private-files": "VnPy-Emulator-Private-Files-7.3.5.606.tar.gz"
+            },
+            {
+                "abi": "x86",
+                "version": "1",
+                "file": "VnPy-Emulator-Plugin-7.3.5.606-x86.apk",
+                "private-files": "VnPy-Emulator-Private-Files-7.3.5.606.tar.gz"
+            }
+        ]
+    }
+]
