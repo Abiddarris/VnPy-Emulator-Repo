@@ -22,21 +22,21 @@
         "version": "7.3.5.606",
         "downloads": [
             {
-                "abi": "arm64",
+                "abi": "arm64-v8a",
                 "version": "1",
-                "file": "VnPy-Emulator-Plugin-7.3.5.606-arm64.apk",
+                "file": "VnPy-Emulator-Plugin-7.3.5.606-arm64_v8a.apk",
                 "private-files": "renpy-private-7.3.5.606.tar.gz"
             },
             {
-                "abi": "armeabi",
+                "abi": "armeabi-v7a",
                 "version": "1",
-                "file": "VnPy-Emulator-Plugin-7.3.5.606-armeabi.apk",
+                "file": "VnPy-Emulator-Plugin-7.3.5.606-armeabi_v7a.apk",
                 "private-files": "renpy-private-7.3.5.606.tar.gz"
             },
             {
-                "abi": "x86",
+                "abi": "x86-64",
                 "version": "1",
-                "file": "VnPy-Emulator-Plugin-7.3.5.606-x86.apk",
+                "file": "VnPy-Emulator-Plugin-7.3.5.606-x86_64.apk",
                 "private-files": "renpy-private-7.3.5.606.tar.gz"
             }
         ]
