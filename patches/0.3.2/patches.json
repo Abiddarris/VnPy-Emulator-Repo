@@ -1,0 +1,95 @@
+[
+    {
+        "name": "VnPy-Emulator Patches for 6.99.12.4.2187",
+        "version": "6.99.12.4.2187",
+        "patch_version" : [
+            {
+                "version": 1,
+                "contents": [
+                    {
+                        "original_hash": "4f3db47d3f58e13c1c843b77d57ff5c4331543f3f6585a6cce7ea31798dfe04f",
+                        "src": "../0.3.0/6.99.12.4.2187/main.py",
+                        "dest": "renpy/main.py"
+                    },
+                    {
+                        "original_hash": "b8a147800f491ac0585fff02b76e0ce67d7d4130f577b0c50d21b700b3df05ec",
+                        "src": "../0.3.0/6.99.12.4.2187/bootstrap.py",
+                        "dest": "renpy/bootstrap.py"
+                    }
+                ]
+            },
+            {
+                "version": 2,
+                "contents": [
+                    {
+                        "original_hash": "4f3db47d3f58e13c1c843b77d57ff5c4331543f3f6585a6cce7ea31798dfe04f",
+                        "src": "../0.3.0/6.99.12.4.2187/2/main.py",
+                        "dest": "renpy/main.py"
+                    },
+                    {
+                        "original_hash": "b8a147800f491ac0585fff02b76e0ce67d7d4130f577b0c50d21b700b3df05ec",
+                        "src": "../0.3.0/6.99.12.4.2187/bootstrap.py",
+                        "dest": "renpy/bootstrap.py"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "VnPy-Emulator Patches for 7.3.5.606",
+        "version": "7.3.5.606",
+        "patch_version" : [
+            {
+                "version": 1,
+                "contents": [
+                    {
+                        "original_hash": "1ee3eab5745c197181095830e7b5a5d0aad982595d649eeba0c0dd6f746d311d",
+                        "src": "../0.3.0/7.3.5.606/main.py",
+                        "dest": "renpy/main.py"
+                    },
+                    {
+                        "original_hash": "8fd2ecc07b9a3cb73ac478cbad5c40830fddf0cb485e5540ea11fce5b3ac4b3b",
+                        "src": "../0.3.0/7.3.5.606/bootstrap.py",
+                        "dest": "renpy/bootstrap.py"
+                    }
+                ]
+            },
+            {
+                "version": 2,
+                "contents": [
+                    {
+                        "original_hash": "1ee3eab5745c197181095830e7b5a5d0aad982595d649eeba0c0dd6f746d311d",
+                        "src": "../0.3.0/7.3.5.606/2/main.py",
+                        "dest": "renpy/main.py"
+                    },
+                    {
+                        "original_hash": "8fd2ecc07b9a3cb73ac478cbad5c40830fddf0cb485e5540ea11fce5b3ac4b3b",
+                        "src": "../0.3.0/7.3.5.606/bootstrap.py",
+                        "dest": "renpy/bootstrap.py"
+                    }
+                ]
+            }
+        ]       
+    },
+    {
+        "name": "VnPy-Emulator Patches for 7.4.11.2266",
+        "version": "7.4.11.2266",
+        "patch_version" : [
+            {
+                "version": 1,
+                "contents": [
+                    {
+                        "original_hash": "0c6d711a3f0ab45136142317d3db2f7049d1de295dd5d62a9deb40645dba5919",
+                        "src": "../0.3.0/7.4.11.2266/main.py",
+                        "dest": "renpy/main.py"
+                    },
+                    {
+                        "original_hash": "cc3f739eb6be4bb0b8c1a5f6fb96a66e31d52e4fa21f6b84a5279732499a22fd",
+                        "src": "../0.3.0/7.4.11.2266/bootstrap.py",
+                        "dest": "renpy/bootstrap.py"
+                    }
+                ]
+            }
+        ]       
+    }
+]
